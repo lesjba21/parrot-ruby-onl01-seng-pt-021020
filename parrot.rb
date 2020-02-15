@@ -1,4 +1,3 @@
 def parrot("Squawk!")
-  puts "parrot"
-  retun "parrot"
+  puts
 end
